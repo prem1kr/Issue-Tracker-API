@@ -170,18 +170,4 @@ http://127.0.0.1:8000/docs
 * **Database transactions** ensure atomic operations
 * Automatic rollback on failure conditions
 
----
-
-## 📊 Evaluation Criteria Mapping
-
-| Area            | Coverage                       |
-| --------------- | ------------------------------ |
-| API correctness | CRUD, CSV, reports             |
-| Concurrency     | Optimistic locking             |
-| Transactions    | Bulk update, label replacement |
-| Code structure  | Layered, modular design        |
-| Error handling  | Validation + HTTP errors       |
-| Documentation   | Complete README                |
-
----
 
